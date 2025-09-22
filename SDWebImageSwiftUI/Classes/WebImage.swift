@@ -7,7 +7,7 @@
  */
 
 import SwiftUI
-import SDWebImage
+import SDWebImageCore2
 
 public enum WebImagePhase {
     /// No image is loaded.

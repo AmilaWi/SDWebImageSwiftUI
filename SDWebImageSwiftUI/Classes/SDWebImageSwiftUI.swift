@@ -8,7 +8,7 @@
 
 import Foundation
 import SwiftUI
-@_exported import SDWebImage // Automatically import SDWebImage
+@_exported import SDWebImageCore2 // Automatically import SDWebImage
 
 #if os(macOS)
 @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)

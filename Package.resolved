@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "SDWebImage",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "repositoryURL": "https://github.com/AmilaWi/SDWebImage.git",
         "state": {
           "branch": null,
-          "revision": "73b9397cfbd902f606572964055464903b1d84c6",
-          "version": "5.19.0"
+          "revision": "58e032835bb1b3e489602faea0ec56d0202fbb33",
+          "version": "5.21.2-core2"
         }
       }
     ]

@@ -7,7 +7,7 @@
  */
 
 import SwiftUI
-import SDWebImage
+import SDWebImageCore2
 
 #if !os(watchOS)
 

@@ -8,7 +8,7 @@
 
 import SwiftUI
 import Combine
-import SDWebImage
+import SDWebImageCore2
 
 /// A Image observable object for handle image load process. This drive the Source of Truth for image loading status.
 /// You can use `@ObservedObject` to associate each instance of manager to your View type, which update your view's body from SwiftUI framework when image was loaded.

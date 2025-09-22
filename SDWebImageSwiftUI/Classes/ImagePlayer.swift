@@ -8,7 +8,7 @@
 
 import SwiftUI
 import Combine
-import SDWebImage
+import SDWebImageCore2
 
 /// A Image observable object for handle aniamted image playback. This is used to avoid `@State` update may capture the View struct type and cause memory leak.
 @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
