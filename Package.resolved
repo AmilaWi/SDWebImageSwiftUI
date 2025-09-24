@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "SDWebImageCore2",
-        "repositoryURL": "https://github.com/AmilaWi/SDWebImageCore2.git",
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
         "state": {
           "branch": null,
-          "revision": "8df8425d4dbfcd961492fe5b78218422433bef64",
-          "version": "5.21.3-core2"
+          "revision": "cac9a55a3ae92478a2c95042dcc8d9695d2129ca",
+          "version": "5.21.0"
         }
       }
     ]
